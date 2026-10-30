@@ -1,7 +1,7 @@
 # AV Technology Brands - Monitoring List
 
 **Last Updated:** October 30, 2026  
-**Automated Tracking:** Daily via scheduled Claude task (6 AM PT)
+**Automated Tracking:** Daily via scheduled Claude task (about 3:35 AM PT, emailed as The AV Dispatch)
 
 ## Core Brands to Monitor
 
