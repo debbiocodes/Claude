@@ -1,19 +1,37 @@
 # AV Technology Brands - Monitoring List
 
-**Last Updated:** August 5, 2026  
-**Automated Tracking:** Daily via scheduled Claude task (8 AM PT)
+**Last Updated:** October 30, 2026  
+**Automated Tracking:** Daily via scheduled Claude task (6 AM PT)
 
 ## Core Brands to Monitor
+
+### Cameras, video bars, and one-stop-shop brands
+- **Logitech** - 
+- **Yealink** - 
+- **Neat** - 
+- **Cisco** - 
+- **Maxhub** -
+- **Jabra** -
+- **Poly** -
+- **Huddly** -
+- **PTZ Optics** -
+- **Vaddio** - 
 
 ### Control & Integration Systems
 - **Q-SYS** — Networked audio, video, and control platform
 - **Biamp** — Audio mixing, conferencing, and AV control systems
 - **Extron** — Professional AV distribution, switching, and control
+- **Crestron** -
+- **Pleneo** - 
 
 ### Audio Equipment
 - **Sennheiser** — Microphones, headsets, wireless systems, audio solutions
 - **Audio Technica** — Microphones, headsets, audio equipment
 - **Audinate** — Dante audio networking technology and ecosystem
+- **Ecler** -
+- **Shure** -
+- **Bose Professional** -
+- **Nureva** - 
 
 ### Video & Display Technology
 - **Planar** — Professional displays and visual systems
@@ -25,10 +43,27 @@
 - **Lightware** — Video connectivity and switching solutions
 - **Inogeni** — Video capture and conversion devices
 - **Heckler** — Design and manufacturing solutions for displays
+- **Barco** - Clickshare, wireless sharing
 
 ### Specialty / Emerging
 - **Turtle** — Portable AV and video transport solutions
 - **CatchBox** — Wireless microphone solutions and collaboration tools
+- **Chief** - TV mounts
+- **Legrand AV** - Accessories for AV through sub-brands such as C2G, Wiremold, Chief, Middle Atlantic, Vaddio
+
+### Listen AID
+- **Listen Technologies** -
+- **DVOX** -
+- **Auracast** - 
+
+### Networking devices
+- **Netgear AV** - AV Switches
+- **Omada by TP-Link** - AV Switches
+
+### Video Conferencing Platforms
+- **Microsoft Teams** -
+- **Zoom** -
+- **Google Meet** - 
 
 ## General Coverage Areas
 
